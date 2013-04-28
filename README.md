@@ -53,6 +53,7 @@ Javascript Simple Automatic Slider Using Jquery
         &lt;div&gt;&lt;a href=&quot;#_&quot; onClick=&quot;amin1.prevSlide()&quot;&gt;Previous&lt;/a&gt;&lt;/div&gt;
         &lt;div&gt;&lt;a href=&quot;#_&quot; onClick=&quot;amin1.nextSlide()&quot;&gt;Next&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
+&lt;/div&gt;
 &lt;script&gt;
             function aminSlider()
             {
